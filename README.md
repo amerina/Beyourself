@@ -2,7 +2,7 @@
 
 [Discover your life goals (in 20 minutes) ](https://www.angstrom.life/goals)
 
-![image-20220607211453924](Image\20220607211453924.png)
+![image-20220607211453924](Image/20220607211453924.png)
 
 ## 《成为你自己》
 
